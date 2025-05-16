@@ -5,8 +5,7 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/ShirokamiRyzen"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github"></a>
-
+<a href="https://github.com/akhfhid"><img title="Author"
 ##
 <p align="center">
 <a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
@@ -52,8 +51,8 @@
 
 #### Setup bot on your Machine
 ```bash
-$ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd ./Nao-MD
+$ git clone https://github.com/akhfhid/Afkhid-BOT
+$ cd ./Afkhid-BOT
 $ npm i
 ```
 
