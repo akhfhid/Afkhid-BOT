@@ -5,8 +5,9 @@
 
 </p>
 <p align="center">
-<a href="https://github.com/akhfhid"><img title="Author" src="https://img.shields.io/badge/AUTHOR-AFKHID-blue
-"</a>
+<a href="https://github.com/akhfkhid"><img title="Author" src="[https://img.shields.io/badge/AUTHOR-ShirokamiRyzen-green.svg?style=for-the-badge&logo=github](https://img.shields.io/badge/AUTHOR-AFKHID-blue
+)"></a>
+
 ##
 <p align="center">
 <a><img src="https://img.shields.io/badge/Maintaned%3F-Actively%20Developed-blue?style=flat-square"></a>
